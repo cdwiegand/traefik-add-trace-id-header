@@ -16,7 +16,7 @@ Thanks to [trinnylondon/traefik-add-trace-id](https://github.com/trinnylondon/tr
 experimental:
  plugins:
   traceinjector:
-   moduleName: github.com/cdwiegand/traefik-add-trace-id-2
+   moduleName: github.com/cdwiegand/traefik-add-trace-id-header-2
    version: v0.2.1
 ```
 
